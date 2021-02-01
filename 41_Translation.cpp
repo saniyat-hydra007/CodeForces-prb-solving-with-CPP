@@ -10,7 +10,7 @@ int main()
         string str2;
         cin >> str1;
         cin >> str2;
-        reverse(str1.begin(),str1.end());
+        reverse(str1.begin(),str1.end()); //A function for reverse a string
         if(str1 == str2) {
                 cout << "YES" <<endl;
         }
