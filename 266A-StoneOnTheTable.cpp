@@ -8,6 +8,7 @@ int main() {
         std::cin >> a;
         string s;
         std::cin >> s;
+
         for(int i=0; i<s.size(); i++) {
                 if(s[i] == s[i+1]) {
                         num++;
