@@ -11,7 +11,6 @@ int main() {
         int a  = strlen(s);
         sort(s, s+a);
 
-
         int count =0;
 
         for(int i=0; i<a; i++)
