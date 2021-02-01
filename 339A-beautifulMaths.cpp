@@ -5,6 +5,7 @@
 using namespace std;
 
 int main() {
+
         char s[100];
         char s2[100] = {' '};
         int j=0;
