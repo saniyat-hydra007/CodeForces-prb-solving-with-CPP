@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-//The first line contains a single integer n (1 ≤ n ≤ 100) — the number of rooms.
+//The first line contains a single integer n (1 ≤ n ≤ 100)
 
 
 
