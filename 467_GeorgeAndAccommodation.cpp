@@ -8,6 +8,5 @@ int main()
 {
 //The first line contains a single integer n (1 ≤ n ≤ 100)
 
-
         return 0;
 }
