@@ -6,7 +6,6 @@ using namespace std;
 
 int main()
 {
-
         string str1;
         string str2;
         cin >> str1;
