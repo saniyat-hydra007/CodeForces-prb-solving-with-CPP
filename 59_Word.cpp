@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+
         int i;
         int count = 0;
         int count2 = 0;
