@@ -4,7 +4,7 @@
  * @Email:  robertarmstrong096@gmail.com
  * @Filename: 141_AmusingJoke.cpp
  * @Last modified by:   Saniyat Mushrat Lamim
- * @Last modified time: 18-May-2021
+ * @Last modified time: 21-May-2021
  */
 
 
@@ -40,9 +40,14 @@ const int N = 1e3+2, M = 3e5+5, OO = 0x3f3f3f3f;
 // int dx[] = {2,-2,1,1,-1,-1} , dy[] = {0,0,1,-1,1,-1}; // Hexagonal Direction
 
 int main(){
-        ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
-        freopen("input.txt", "r", stdin);
-        freopen("output.txt", "w", stdout);
 
+        int n=20;
+        if (n=20) {
+                /* code */
+                std::cout << "hi" << '\n';
+        }
+        else if (n=20) {
+                std::cout << "hi2" << '\n';
+        }
         return 0;
 }
